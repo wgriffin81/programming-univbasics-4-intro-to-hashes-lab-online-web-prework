@@ -7,7 +7,7 @@ def my_hash
   # return a valid hash with any key/value pair of your choice
   price = {
     "Emergency Telecommunicator Course" => 625.00,
-    "Emergency Medical Dispatcher Course" => 600.00,
+    "Emergency Medical Dispatcher Course" => 600.00
   }
 end
 
