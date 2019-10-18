@@ -20,10 +20,14 @@ end
 
 def id_generator
   # return a hash with a key :id assigned to positive integer
+  positive_number = {
+    :id => 5,
+  }
 end
 
 def my_hash_creator(key, value)
   # return a hash that includes the key and value parameters passed into this method
+
 end
 
 def read_from_hash(hash, key)
