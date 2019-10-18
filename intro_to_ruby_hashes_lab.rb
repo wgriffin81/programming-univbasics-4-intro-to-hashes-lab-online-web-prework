@@ -38,6 +38,6 @@ def update_counting_hash(hash, key)
   # if the provided key is not present
   else
     hash[key] =1 
-  
   end
+  hash
 end
